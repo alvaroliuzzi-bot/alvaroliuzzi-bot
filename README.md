@@ -16,7 +16,7 @@ Uno procesos de negocio y software: del papel y el Excel a sistemas que la gente
 
 | | Proyecto | Qué hace |
 |---|---|---|
-| 🍦 | **Procesos ideales para una fábrica de helados** | Diagramas BPMN de recepción, producción y despacho con un solo sistema y solo códigos de barra (PDF de 13 páginas generado con JavaScript + Playwright) |
+| 🍦 | **[De la fábrica al salón](https://github.com/alvaroliuzzi-bot/ekaru-procesos)** | Informe final para un ERP con MRP sobre e-Karú: planificación, recepción, producción, despacho, salones con Club y canales, todo con códigos de barra (PDF de 17 páginas con diagramas BPMN, generado con JavaScript + Playwright) |
 | 🏷️ | **Etiquetas con código de barras** | App de escritorio en Python que diseña e imprime etiquetas y tablas nutricionales en una impresora térmica (TSPL/RAW) |
 | 🧾 | **Convertidor de facturas de compra** | Lee el Excel de Marangatu, baja los XML de e-Kuatia (SIFEN) y entrega las compras listas para cargar en el sistema de ventas |
 | 🌐 | **Páginas web** | Prototipos HTML/CSS/JS de pantallas de venta y un sitio de pedidos en línea para una lomitería (trabajo de la facultad) |
@@ -37,7 +37,7 @@ Uno procesos de negocio y software: del papel y el Excel a sistemas que la gente
 
 ### 📚 Lo que estoy aprendiendo
 
-- Modelado de procesos (BPMN) y facturación electrónica en Paraguay (SIFEN)
+- Modelado de procesos (BPMN), planificación MRP y facturación electrónica en Paraguay (SIFEN)
 - Bases de datos y normalización
 - Desarrollo web
 
