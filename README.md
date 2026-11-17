@@ -12,18 +12,17 @@
 
 ## 🛠️ En qué trabajo
 
-<table>
-<tr>
-<td width="50%"><a href="https://github.com/alvaroliuzzi-bot/ekaru-procesos"><img src=".github/assets/card_procesos.svg" width="100%" alt="De la fábrica al salón"></a></td>
-<td width="50%"><a href="https://github.com/alvaroliuzzi-bot/ekaru-etiquetas"><img src=".github/assets/card_etiko.svg" width="100%" alt="Etiko"></a></td>
-</tr>
-<tr>
-<td width="50%"><a href="https://github.com/alvaroliuzzi-bot/glace-compras"><img src=".github/assets/card_compras.svg" width="100%" alt="Glacé Compras"></a></td>
-<td width="50%"><a href="https://github.com/alvaroliuzzi-bot/paginas-web"><img src=".github/assets/card_web.svg" width="100%" alt="Páginas web"></a></td>
-</tr>
-<tr>
-<td width="50%"><a href="https://github.com/alvaroliuzzi-bot/TRIVIA.CINE"><img src=".github/assets/card_trivia.svg" width="100%" alt="Trivia de cine"></a></td>
-<td width="50%" valign="middle">
+<p align="center">
+<a href="https://github.com/alvaroliuzzi-bot/ekaru-procesos"><img src=".github/assets/card_procesos.svg" width="49%" alt="De la fábrica al salón"></a>
+<a href="https://github.com/alvaroliuzzi-bot/ekaru-etiquetas"><img src=".github/assets/card_etiko.svg" width="49%" alt="Etiko"></a>
+</p>
+<p align="center">
+<a href="https://github.com/alvaroliuzzi-bot/glace-compras"><img src=".github/assets/card_compras.svg" width="49%" alt="Glacé Compras"></a>
+<a href="https://github.com/alvaroliuzzi-bot/paginas-web"><img src=".github/assets/card_web.svg" width="49%" alt="Páginas web"></a>
+</p>
+<p align="center">
+<a href="https://github.com/alvaroliuzzi-bot/TRIVIA.CINE"><img src=".github/assets/card_trivia.svg" width="49%" alt="Trivia de cine"></a>
+</p>
 
 | | Proyecto | En una línea |
 |:-:|---|---|
@@ -32,10 +31,6 @@
 | 🧾 | **Glacé Compras** | De Marangatu y e-Kuatia (SIFEN) al sistema de ventas |
 | 🌐 | **Páginas web** | Prototipos de venta y un sitio de pedidos en línea |
 | 🎬 | **TRIVIA.CINE** | Juego de preguntas por turnos en Java |
-
-</td>
-</tr>
-</table>
 
 > [!NOTE]
 > Los repositorios de proyectos para clientes son privados.
