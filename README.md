@@ -6,6 +6,9 @@
 ![UPA](https://img.shields.io/badge/🎓_UPA-Informática_Empresarial-6D5BD0?style=for-the-badge)
 ![Idiomas](https://img.shields.io/badge/🗣️_idiomas-ES_·_DE_·_EN-E0457B?style=for-the-badge)
 
+
+<a href="https://claude.ai/artifact/6RK7nyF9HsXZztpKUsCuZy"><img src="https://img.shields.io/badge/🗂️_VER_TODOS_LOS_PROYECTOS-en_un_solo_lugar-6D5BD0?style=for-the-badge&labelColor=E0457B" height="40" alt="Ver todos los proyectos en un solo lugar"></a>
+
 </div>
 
 <img src=".github/assets/divider.svg" width="100%">
